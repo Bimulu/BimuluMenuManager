@@ -10,4 +10,4 @@
 1. Download eller byg `BimuluMenuManager.jar`
 2. Læg filen i `/plugins`
 3. Start serveren
-4. Mapper oprettes automatisk:
+4. Mapper oprettes automatisk: plugins/BimuluMenuManager/menus/
