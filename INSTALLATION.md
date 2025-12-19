@@ -11,3 +11,7 @@
 2. Læg filen i `/plugins`
 3. Start serveren
 4. Mapper oprettes automatisk: plugins/BimuluMenuManager/menus/
+
+## Kommandoer
+- `/menu reload`
+- `/menu open <menuId> [player]`
