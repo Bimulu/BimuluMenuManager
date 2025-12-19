@@ -7,7 +7,7 @@ Alle menuer defineres i YAML-filer under:
 id: main
 title: "<gold>Menu</gold>"
 rows: 3
-items: {}
+items: {}yml```
 
 ---
 
